@@ -58,10 +58,6 @@ I enjoy turning ideas into useful software with **machine learning, LLMs, retrie
 
 ## 🚀 Featured Projects
 
-### [Vision Spectrum](https://github.com/Javaboiscript/Vision)
-Extracts structured information from purchase orders, invoices, bills, receipts, and PDFs using open-source vision-language models.
-
-`Python` `Hugging Face` `Qwen2.5-VL` `Document AI`
 
 ### [AI Multi-Agent Courtroom](https://github.com/Javaboiscript/Multi-Agent-CourtRoom)
 A courtroom simulation with legal research, adversarial arguments, parallel judge agents, and structured verdicts.
