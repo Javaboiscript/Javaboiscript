@@ -12,6 +12,17 @@ I enjoy turning ideas into useful software with **machine learning, LLMs, retrie
 
 ---
 
+## 🕷️ Spider-Man vs Venom, live on my contribution graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="dist/spidey-vs-venom-light.svg">
+  <img alt="Pixel-art Spider-Man fighting Venom across my contribution graph" src="dist/spidey-vs-venom.svg">
+</picture>
+</div>
+
+---
+
 ## 🧰 Tech Stack
 
 **Languages**  
